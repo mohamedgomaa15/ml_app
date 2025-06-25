@@ -1,0 +1,4 @@
+joblib>=1.2.0
+numpy>=1.21.0  # Often needed for ML models
+scikit-learn>=1.0.0  # If using sklearn
+streamlit>=1.0.0
